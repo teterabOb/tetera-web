@@ -16,6 +16,7 @@ export default function Home() {
           <li>Primer Contrato</li>
           <li>Segundo Contrato</li>
           <li>Tercer Contrato</li>
+          <li>Cuarto Contrato</li>
         </ul>
       </div>
     </main>
