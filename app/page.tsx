@@ -9,9 +9,9 @@ export default function Home() {
           Tetera Web&nbsp;
           <code className={styles.code}>app/page.tsx</code>
         </p>
-
       </div>
       <div>
+        <h1>Contratos</h1>
         <ul>
           <li>Primer Contrato</li>
           <li>Segundo Contrato</li>
